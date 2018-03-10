@@ -20,7 +20,7 @@
 <body>
 	<h1>Project: Monitoring data in my home basement</h1>
 	<?php
-	echo This is a new line made in PHP
+	echo "This is a new line made in PHP";
 		?>
 </body>
 </html>
