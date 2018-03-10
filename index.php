@@ -21,7 +21,7 @@
 	<h1>Project: Monitoring data in my home basement</h1>
 	<?php
 	echo "This is a new line made in PHP";
-	echo "<h1>and another line with HYML tags</h1>"
+	echo "<h1>and another line with HTML tags</h1>"
 		?>
 </body>
 </html>
