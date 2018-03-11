@@ -31,7 +31,7 @@
 	$server = $_SERVER['SERVER_SOFTWARE'];
 
 	//Print the name of the script;
-	echo "<h1>You are running thr file:</h1><br/><p><strong>$file</strong></p>\n";
+	echo "<h1>You are running the file:</h1><br/><p><strong>$file</strong></p>\n";
 
 	//Print user's information;
 	echo "<h1>You are viewing this page using:</h1><br/><p><strong>$user</strong></p>\n";
