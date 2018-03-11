@@ -39,11 +39,11 @@
 	//Print the server information to the browser;
 	echo "<h1>The server is running:</h1><br/><p><strong>$server</strong></p>\n";
 
-	/*
+	
 	echo "This is a new line made in PHP";
 	echo "<h1>and another line with HTML tags</h1>";
 	echo "one more 'test'...";
-	*/
+	
 		?>
 </body>
 </html>
