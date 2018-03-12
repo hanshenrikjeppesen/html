@@ -13,7 +13,11 @@
 		font-family: 'Ubuntu', sans-serif;
 		font-size: 250%;
 	}
-	p    {color: red;}
+	p    {
+		color: red;
+		font-family: 'ubuntu', sans-serif;
+		}
+
 
 </style>
 </head>
