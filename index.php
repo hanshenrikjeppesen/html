@@ -5,6 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
+	<div></div>
 	<h1>Testing and Learning PHP</h1>
 	<?php
 	# Script version 1.1
