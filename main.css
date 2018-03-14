@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
-body {background-color: rgba(198, 197, 185, 1);}
+div {
+    background: #466368;
+    background: linear-gradient(#648880, #293f50);
+    border-radius: 6px;
+    height: 120px;
+  }
+body /*{background-color: rgba(198, 197, 185, 1);}*/
 	h1   {
 		
 		text-align: center;
