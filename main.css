@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+body {background-color: rgba(198, 197, 185, 1);}
+	h1   {
+		
+		text-align: center;
+		color: rgba(57, 61, 63, 1);
+		font-family: 'Ubuntu', sans-serif;
+		font-size: 250%;
+	}
+	p,a    {
+		color: rgba(84, 106, 123, 1);
+		font-family: 'ubuntu', sans-serif;
+		}
+
