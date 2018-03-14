@@ -44,10 +44,7 @@
 	echo "<h1>The server is running:</h1><br/><p><strong>$server</strong></p>\n";
 
 	
-	echo "This is a new line made in PHP";
-	echo "<h1>and another line with HTML tags</h1>";
-	echo "one more 'test'...";
-	
 		?>
+		<a href="script1_9.php" target="_blank">Script 1.9</a>
 </body>
 </html>
