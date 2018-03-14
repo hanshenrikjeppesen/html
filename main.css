@@ -5,7 +5,9 @@ div {
     border-radius: 6px;
     height: 120px;
   }
-body /*{background-color: rgba(198, 197, 185, 1);}*/
+body {
+    background-color: rgba(198, 197, 185, 1);
+}
 	h1   {
 		
 		text-align: center;
