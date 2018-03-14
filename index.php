@@ -2,24 +2,7 @@
 <html>
 <head>
 	<title>RaspberryPi - learning PHP</title>
-    <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
-    <style>
-
-    body {background-color: powderblue;}
-	h1   {
-		
-		text-align: center;
-		color: blue;
-		font-family: 'Ubuntu', sans-serif;
-		font-size: 250%;
-	}
-	p    {
-		color: red;
-		font-family: 'ubuntu', sans-serif;
-		}
-
-
-</style>
+	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
 	<h1>Testing and Learning PHP</h1>
