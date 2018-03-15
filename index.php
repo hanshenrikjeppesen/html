@@ -34,6 +34,6 @@
 	
 		?>
 	<h2>Next Script</h2>
-	<a href="script1_9.php" target="_blank">Script 1.9</a>
+	<h2><a href="script1_9.php" target="_blank">Script 1.9</a></h2>
 </body>
 </html>
