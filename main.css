@@ -9,30 +9,46 @@ div {
 body {
     background-color: rgba(198, 197, 185, 1);
 }
-	h1   {
+h1   {
 		
-		text-align: center;
-        color: rgba(216, 216, 246, 0.5);
-        font-family: 'Abril Fatface', cursive;
-		font-size: 250%;
+	text-align: center;
+    color: rgba(216, 216, 246, 0.5);
+    font-family: 'Abril Fatface', cursive;
+	font-size: 250%;
     }
     
-    h2   {
+h2   {
 		
-		text-align: center;
-		color: rgba(57, 61, 63, 1);
-		font-family: 'Ubuntu', sans-serif;
-		font-size: 150%;
+	text-align: center;
+	color: rgba(57, 61, 63, 1);
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 150%;
 	}
 
-	p    {
-		color: rgba(84, 106, 123, 1);
-		font-family: 'ubuntu', sans-serif;
-		}
+p    {
+	color: rgba(84, 106, 123, 1);
+	font-family: 'ubuntu', sans-serif;
+	}
 
-    a    {
-        text-align: center;
-        color: rgba(84, 106, 123, 1);
-        font-family: 'ubuntu', sans-serif;
-        font-size: 150%
-        }
+a    {
+    text-align: center;
+    color: rgba(84, 106, 123, 1);
+    font-family: 'ubuntu', sans-serif;
+    font-size: 150%
+    }
+    
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
