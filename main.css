@@ -37,7 +37,7 @@ a    {
     }
     
     a:link, a:visited {
-        background-color: #f44336;
+        background-color: #C59849;
         color: white;
         padding: 14px 25px;
         text-align: center;
@@ -46,5 +46,5 @@ a    {
     }
 
     a:hover, a:active {
-        background-color: red;
+        background-color: #F44336;
     }
