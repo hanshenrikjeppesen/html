@@ -23,13 +23,13 @@
 	$server = $_SERVER['SERVER_SOFTWARE'];
 
 	//Print the name of the script;
-	echo "<h1>You are running the file:</h1><br/><p><strong>$file</strong></p>\n";
+	echo "<h2>You are running the file:</h2><br/><p><strong>$file</strong></p>\n";
 
 	//Print user's information;
-	echo "<h1>You are viewing this page using:</h1><br/><p><strong>$user</strong></p>\n";
+	echo "<h2>You are viewing this page using:</h2><br/><p><strong>$user</strong></p>\n";
 
 	//Print the server information to the browser;
-	echo "<h1>The server is running:</h1><br/><p><strong>$server</strong></p>\n";
+	echo "<h2>The server is running:</h2><br/><p><strong>$server</strong></p>\n";
 
 	
 		?>
