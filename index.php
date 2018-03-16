@@ -8,7 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
-	<div>
+	<div class="topbox">
 	<h1>Testing and Learning PHP</h1>
 </div>
 	<?php
