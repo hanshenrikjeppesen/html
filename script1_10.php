@@ -36,6 +36,7 @@ in their represented values printed, not their literal values";
     "$price" is set to 119.95 and lastly "$taxrate" is set to 0.25</p>
     <P>the text here above is writen in HTML so there is no problem with the quotation marks and the table here below is also made in pure HTML</p> 
 
+<div style="overflow-x:auto;">
 <table style="width:30%">
     <caption>Escape Sequences</caption>
   <tr>
@@ -71,6 +72,7 @@ in their represented values printed, not their literal values";
     <td>Dollar sign</td>
   </tr>
 </table>
+</div>
 
 <?php
 
