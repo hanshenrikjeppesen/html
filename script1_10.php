@@ -101,7 +101,7 @@ let's take an example:</br></p>
 
 
 <h2>Next Script</h2>	
-    <h2><a href="script1_10.php" target="_blank">Script 1.10</a></h2>
+    <h2><a href="script2_1.php" target="_blank">Script 2.1</a></h2>
     <h2><a href="index.php" target="_blank">Frontpage</a></h2>
 </body>
 </html>
