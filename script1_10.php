@@ -31,6 +31,7 @@ whereas those within double quotation marks will be interpreted</p>"
 echo "<p>Meaning placing variables and special characters (escape Sequences) within double quotes will result
 in their represented values printed, not their literal values"
 ?>
+
 <table style="width:30%">
   <tr>
     <th>Code</th>
