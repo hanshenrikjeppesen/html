@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="main.css">
-    <title>Script 1_10 quations and math</title>
+    <title>Script 1_10 quotaions and math</title>
 </head>
 <body>
 <div class="topbox">
@@ -32,6 +32,7 @@ echo "<p>Meaning placing variables and special characters (escape Sequences) wit
 in their represented values printed, not their literal values";
 // The next text line is writen in HTML
 ?>
+<h2>This text is in HTML</h2>
 <p>In the PHP script we have set there variables. "$quantity" is set to 30
     "$price" is set to 119.95 and lastly "$taxrate" is set to 0.25</p>
     <P>the text here above is writen in HTML so there is no problem with the quotation marks and the table here below is also made in pure HTML</p>
