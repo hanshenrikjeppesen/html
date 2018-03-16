@@ -41,7 +41,7 @@ in their represented values printed, not their literal values";
     <p>The calculations will look something like this</br>$total = $quantity + $price;</br>$total = $total + ($total * $taxrate);</br>
 
 <div style="overflow-x:auto;">
-<table style="width:30%">
+<table class="center" style="width:30%">
     <caption>Escape Sequences</caption>
   <tr>
     <th>Code</th>
