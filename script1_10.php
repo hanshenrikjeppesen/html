@@ -77,7 +77,8 @@ in their represented values printed, not their literal values";
   </tr>
 </table>
 </div>
-</hr>
+<h2>Back to PHP</h2>
+<p>we are now leving html and entering php, the next couple of lines is produced with PHP</p>
 <?php
 
 //print the result using double quoation
