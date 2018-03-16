@@ -25,6 +25,14 @@ h2   {
 	font-size: 150%;
 	}
 
+    h3   {
+		
+        text-align: center;
+        color: rgba(57, 61, 63, 1);
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 120%;
+        }
+
 p    {
 	color: rgba(84, 106, 123, 1);
 	font-family: 'ubuntu', sans-serif;
