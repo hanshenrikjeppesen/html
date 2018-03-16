@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
-div {
+
+.topbox {
     background: #466368;
     background: linear-gradient(#648880, #293f50);
     border-radius: 10px;
