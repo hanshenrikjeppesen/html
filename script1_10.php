@@ -90,6 +90,13 @@ echo '<h3>Using single qoutation marks:</h3>';
 echo '<p>You are purchasing <strong>$quantity</strong> widget(s) at a cost of <strong>\$$price</strong> each- With tax, the total comes to <strong> \$$total</strong></p>\n';
 
 ?>
+<h2>Back in HTML world</h2>
+<p>Tip of the day: <strong>PHP</strong> will try to find variables within double quotes hence using single quotes is in therory faster. 
+But if you need to print the value of a variable of couse you need need double quotation marks</p>
+<p>Valid<strong> HTML </strong> will often contain a vast number of double quoted attributes, it's often easiest to use single quotation marks when
+printing<strong> HTML </strong>with<strong> PHP </strong></p><xmp>let's take an example:</br>echo '<table class="data">'</xmp>'
+
+
 <h2>Next Script</h2>	
     <h2><a href="script1_10.php" target="_blank">Script 1.10</a></h2>
     <h2><a href="index.php" target="_blank">Frontpage</a></h2>
