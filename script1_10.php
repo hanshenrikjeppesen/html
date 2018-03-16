@@ -94,7 +94,9 @@ echo '<p>You are purchasing <strong>$quantity</strong> widget(s) at a cost of <s
 <p>Tip of the day: <strong>PHP</strong> will try to find variables within double quotes hence using single quotes is in therory faster. 
 But if you need to print the value of a variable of couse you need need double quotation marks</p>
 <p>Valid<strong> HTML </strong> will often contain a vast number of double quoted attributes, it's often easiest to use single quotation marks when
-printing<strong> HTML </strong>with<strong> PHP </strong>let's take an example:</br><xmp>echo '<table class="data">'</xmp>'
+printing<strong> HTML </strong>with<strong> PHP </strong></br>
+let's take an example:</br></p>
+<xmp>echo '<table class="data">'</xmp>
 
 
 <h2>Next Script</h2>	
