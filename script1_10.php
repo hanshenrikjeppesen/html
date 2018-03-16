@@ -34,7 +34,11 @@ in their represented values printed, not their literal values";
 ?>
 <p>In the PHP script we have set there variables. "$quantity" is set to 30
     "$price" is set to 119.95 and lastly "$taxrate" is set to 0.25</p>
-    <P>the text here above is writen in HTML so there is no problem with the quotation marks and the table here below is also made in pure HTML</p> 
+    <P>the text here above is writen in HTML so there is no problem with the quotation marks and the table here below is also made in pure HTML</p>
+    <h2>Assigning values to variables in PHP</h2>
+    <p>In PHP it will look something like this:</br>$quantity = 30;</br>$price = 119.95;</br>$taxrate = 0.25;</br></p>
+    <h2>The calculations</h2>
+    <p>The calculations will look something like this</br>$total = $quantity + $price;</br>$total = $total + ($total * $taxrate);</br>
 
 <div style="overflow-x:auto;">
 <table style="width:30%">
