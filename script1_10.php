@@ -27,9 +27,9 @@ $total = number_format ($total, 2);
 //Text explaining the reason for this script
 echo "<h3>Why is it importent to know about Quotation marks?</h3>";
 echo "<p>In<strong>PHP</strong>, values enclosed within single quotation marks will be treated literally, 
-whereas those within double quotation marks will be interpreted</p>"
+whereas those within double quotation marks will be interpreted</p>";
 echo "<p>Meaning placing variables and special characters (escape Sequences) within double quotes will result
-in their represented values printed, not their literal values"
+in their represented values printed, not their literal values";
 ?>
 
 <table style="width:30%">
