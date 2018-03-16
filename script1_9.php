@@ -8,7 +8,7 @@
     <title>Script1_9 Constants</title>
 </head>
 <body>
-<div>
+<div class="topbox">
 <h1>Script 1.9 Constants</h1>
 </div>
 <?php
