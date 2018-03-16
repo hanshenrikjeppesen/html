@@ -36,7 +36,8 @@ h2   {
 
 p    {
 	color: rgba(84, 106, 123, 1);
-	font-family: 'ubuntu', sans-serif;
+    font-family: 'ubuntu', sans-serif;
+    margin: 10px 5px 15px 20px;
 	}
 
 a    {
