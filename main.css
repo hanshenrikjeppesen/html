@@ -5,7 +5,8 @@
     background: #466368;
     background: linear-gradient(#648880, #293f50);
     border-radius: 10px;
-    height: 140px;
+    padding: 5%;
+    margin: 25px;
   }
 body {
     background-color: rgba(198, 197, 185, 1);
