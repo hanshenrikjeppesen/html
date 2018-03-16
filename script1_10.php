@@ -81,7 +81,7 @@ echo "<h3>Using double quotation marks:</h3>";
 echo "<p>You are purchasing <strong>$quantity</strong> widget(s) at a cost of <strong>\$$price</strong> each- With tax, the total comes to <strong> \$$total</strong></p>\n";
 
 //print the result using single quotes
-echo '<h3>Using single qoutation marks:</h3>'
+echo '<h3>Using single qoutation marks:</h3>';
 echo '<p>You are purchasing <strong>$quantity</strong> widget(s) at a cost of <strong>\$$price</strong> each- With tax, the total comes to <strong> \$$total</strong></p>\n';
 
 ?>
