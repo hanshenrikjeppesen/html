@@ -8,7 +8,7 @@
     <title>Script 1_10 quations and math</title>
 </head>
 <body>
-<div>
+<div class="topbox">
 <h1>Script 1.10 quation and math</h1>
 </div>
 <?php
