@@ -73,7 +73,7 @@ in their represented values printed, not their literal values";
   </tr>
 </table>
 </div>
-
+</hr>
 <?php
 
 //print the result using double quoation
