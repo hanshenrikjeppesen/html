@@ -14,15 +14,15 @@
 // defining variables
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
-$comments = $_REQUEST['comments']
-$age = $_REQUEST['age']
-$gender = $_REQUEST['gender']
+$comments = $_REQUEST['comments'];
+$age = $_REQUEST['age'];
+$gender = $_REQUEST['gender'];
 
 // printing the information submitted information from the html form.
 
 echo "<h2>Hallo $name</h2><p>thank you for the following comment</p>
 <pre>$comments</pre>
-<p>We wil get back to you on the following email: <em>$email</em></p>" 
+<p>We wil get back to you on the following email: <em>$email</em></p>"; 
 
 
 ?>
