@@ -9,6 +9,9 @@
     <script src="main.js"></script>
 </head>
 <body>
+<div class="topbox">
+    <h1>Form data returned from handle_form2</h1>
+</div>
     <?php # Script 2.3 handle_form2.php
 
 // defining variables
