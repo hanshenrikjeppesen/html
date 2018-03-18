@@ -34,12 +34,12 @@ echo "<h2>Hallo</br>$name</h2><p>thank you for the following comment</p>
 // print a message based upon the gender value;
 
 if ($gender =='M') {
-    echo '<p><stong>Have a nice day, Sir!</strong></p>';
+    echo '<h1><stong>Have a nice day, Sir!</strong></h1>';
 } elseif ($gender == 'F') {
-    echo '<p><stong>Have a nice day, Madam!</strong></p>';
+    echo '<h1><stong>Have a nice day, Madam!</strong></h1>';
 } else {
     // No gender is selected
-    echo '<p><stong>You forgot to enter your data</strong></p>';
+    echo '<h1><stong>You forgot to enter your data</strong></h1>';
 }
 
 ?>
