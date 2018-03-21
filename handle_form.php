@@ -26,5 +26,10 @@ echo "<h2>Hallo</br>$name</h2><p>thank you for the following comment</p>
 
 
 ?>
+<h2>Next Script</h2>	
+    <h2><a href="form2.html" target="_blank">Script 2.4</a></h2>
+    <h2><a href="index.php" target="_blank">Frontpage</a></h2>
+</body>
+</html>
 </body>
 </html>
