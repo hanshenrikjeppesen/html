@@ -12,6 +12,7 @@
 <h1>Script 1.10 quotation and math</h1>
 </div>
 <?php
+
 // set the variables:
 $quantity = 30;
 $price = 119.95;
