@@ -21,7 +21,7 @@
         alert("email must be filled out");
         return false;
     }
-    if (age == ""){
+    if (age == "not_set"){
         alert("age must be filled out");
         return false;
     }
@@ -42,6 +42,7 @@
 
     <p><label>Age:
         <select name="age">
+            <option value="not_set">Chose your age</option>
             <option value="0-29">Under 30</option>
             <option value="30-60">Between 30 and 60</option>
             <option value="60+">Over 60</option>
