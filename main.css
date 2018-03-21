@@ -80,5 +80,10 @@ a    {
       }
     label {
         font-weight: bold;
-        color: #300ACC
+        color: #300ACC;
+    }
+
+    .error {
+        font-weight: bold;
+        color: #c00
     }
