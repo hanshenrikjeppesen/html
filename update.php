@@ -9,7 +9,7 @@
     <script src="main.js"></script>
 </head>
 <body>
-<form method="get" action="index.php">
+<form method="get" action="update.php">
 <input type="submit" class="buttonOn" value="update" name="update">
 </form>
  <?php
