@@ -6,18 +6,36 @@
     <title>HTML Form 2.4</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
-    <script src="main.js"></script>
+    <script>
+    function validateForm() {
+    var name  = document.forms["newForm"]["name"].value;
+    var email = document.forms["newForm"]["email"].value;
+    var age = document.forms["newForm"]["age"].value;
+
+    if (name == "") {
+        alert("Name must be filled out");
+        return false;
+    }
+
+    if (email == ""){
+        alert("email must be filled out");
+    }
+    if (age == ""){
+        alert("age must be filled out");
+    }
+}
+    </script>
 </head>
 <body>
     <!-- script 2.4 form.html
     HTML form that is linked to handle_form_con.php -->
     <h2>HTML form 2</h2>
     <p>This form sends data to a new handle_form_con.php <strong>with</strong> new conditionals</p>
-    <form action="handle_form.php" method="POST">
+    <form name="newForm" action="handle_form.php" onsubmit="return validateForm()" method="POST">
     <fieldset><legend>Enter you information in the form below:</legend>
     <p><label>Name: <input type="text" name="name" size="20" maxlength="40"></label></p>
-    <p><label>Email Address: <input type="email" name="email" size="40" maxlength="60"></label></p>
-    <p><label for="gender">Gender: </label> <input type="radio" name="gender" value="M"> Male
+    <p><label>Email Address: <input type="email" name="email" size="40" maxlength="60" rere></label></p>
+    <p><label for="gender">Gender: </label> <input type="radio" name="gender" value="M" required> Male
     <input type="radio" name="gender" value="F"> Female</p>
 
     <p><label>Age:
