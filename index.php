@@ -9,7 +9,7 @@
 </head>
 <body>
 	<div class="topbox">
-	<h1>Testing and Learning PHP</h1>
+	<h1>xxxxxxx and Learning PHP</h1>
 </div>
 	<?php
 	# Script version 1.1
